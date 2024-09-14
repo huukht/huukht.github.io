@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://huukht.github.io/pmZ/sitemap.pmZ.gz
